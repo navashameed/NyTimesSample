@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NyTimesApp</string>
+    <string name="movie_list_title">Search movies</string>
+    <string name="movie_detail_title">Movie detail</string>
+</resources>
